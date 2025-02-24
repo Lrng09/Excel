@@ -1,1 +1,1 @@
-# Excel
+# This folder showcases a variety of Excel projects where I have applied my analytical skills to interpret and visualize data. Throughout this collection, you will find a combination of techniques including data cleaning, trend analysis, forecasting, and the creation of interactive dashboards.
