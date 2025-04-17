@@ -1,0 +1,2 @@
+# ☕Coffee Sales Dashboard
+This project centers around the analysis of coffee order data to uncover patterns in customer behavior, product preferences, and sales performance across regions. The goal is to deliver actionable insights that enhance customer targeting, optimize inventory, and improve revenue generation strategies. Data points include order details, customer demographics, product specifics, loyalty card status, and geographical information.
