@@ -13,7 +13,7 @@ This analysis explores the demographics and lifestyle attributes of individuals 
   * Buyers tend to have slightly higher incomes, suggesting moderate financial capability may drive bike ownership.
 
 * Family & Age Profile
-  * Buyers have fewer children (1.7) compared to non-buyers (2.1), possibly indicating young professionals or singles are more likely to buy bikes.
+  * Buyers have fewer children (1.7) compared to non-buyers (2.1), possibly indicating young professionals or singles are more likely to buy bikes as there is not need for a larger form of transport
 
 * Average age of buyers:
   * 42.8 vs. non-buyers: 45.3
@@ -27,3 +27,5 @@ This analysis explores the demographics and lifestyle attributes of individuals 
 * Focus campaigns on young adults (30–45) with moderate to high income
 * Tailor messaging for urban dwellers and singles who commute shorter distances
 * Offer discounts for students and professionals with higher education, who show a stronger inclination toward bike purchases.
+
+
